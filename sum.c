@@ -12,6 +12,7 @@ int main()
 		sum = sum+i;
 		/* code */
 	}
+	printf("Sum of natural numbers:");
 	printf("%d\n",sum );
 
 	return 0;
